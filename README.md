@@ -21,7 +21,7 @@
 
 # Part 2  Coding Technique Exploration
 
-1. **imaging technique**
+1. **Imaging technique**
 
    In this interactive wall design, pressure sensors are embedded within the wall to detect children's movements. As they move closer or touch the wall, the interactive system responds with corresponding animations. This system integrates with an **LED display**, which showcases dynamic lighting effects based on the children’s interactions.
 
