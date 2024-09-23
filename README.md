@@ -32,7 +32,7 @@
 
 ![an image of children](/readmeImage/WechatIMG292.jpg)
 
-![an image of children](/readmeImage/Eness+Cabrini.jpg)
+![an image of children](/readmeImage/Eness+Cabrini_resized_1024x682.jpg)
 
 
 [a link to an example implementation](https://lumes.net/about2/)
